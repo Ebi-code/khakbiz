@@ -1,0 +1,30 @@
+[
+  {
+    "id": "buyer-1",
+    "connect": "connected",
+    "products": ["polysyrene","etilen", "metan", "metanol"],
+    "country": "iran",
+    "name": "hani",
+    "lastName": "mahmoodi",
+    "email": "social@hanimahmoodi.com",
+    "phone": "+98-21-1234-1111",
+    "imageSrc": "../assets/images/buyers/hani-mahmoodi.png",
+    "contracts": ["Oil an Gas","Oil", "product shopping"],
+    "invoice": ["../assets/images/buyers/invoice/invoice-hani-mahmoodi.png"],
+    "about": "The one who made me enter the big world of the oil, gas, and petrochemical industry"
+  },
+  {
+    "id": "buyer-2",
+    "connect": "no",
+    "products": ["polysyrene","eps","gpps"],
+    "country": "usa",
+    "name": "Andrew",
+    "lastName": "Anderson",
+    "email": "Anderson@gmail.com",
+    "phone": "+1-555-222-1111",
+    "imageSrc": "../assets/images/buyers/male-avatar.png",
+    "invoice": [],
+    "contracts": [],
+    "about": "Fugiat ipsum ipsum deserunt culpa aute sint do nostrud anim incididunt cillum culpa consequat. Excepteur qui ipsum aliquip consequat sint."
+  }
+]

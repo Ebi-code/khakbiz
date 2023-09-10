@@ -1,0 +1,68 @@
+{
+  "global": "iran",
+  "data": [
+    {
+      "id": "ir-pt-1",
+      "country": "iran",
+      "product": "polystyrene",
+      "tradeName": "eps",
+      "grade": "f100",
+      "datasheet": "https://wikiplast.ir/datasheets/ditashitF100.pdf",
+      "petrochemical": "entekhab",
+      "imageSrc": ["../assets/images/products/polystyrene.jpg"],
+      "application": [
+        "SNOWA F100 is an EPS class with HBCD flame retardant agent, which can be used in production of EPS foam typically in density ranges between 7 – 12 kg/m3 which is suitable for high quality block molding.",
+        "SNOWA F100 in general is used in application which is requiring fire classification such as thermal insulation material for construction applications and for construction contour moldings.",
+        "Lower densities can be achieved by multiple expansions."
+      ],
+      "packing": [
+        "1250kg big bag with inside gas barrier liner",
+        "1000kg big bag with inside gas barrier liner",
+        "750kg big bag with inside gas barrier liner",
+        "1150kg octabins are in preparation"
+      ]
+    },
+    {
+      "id": "ir-pt-2",
+      "country": "iran",
+      "product": "polystyrene",
+      "tradeName": "eps",
+      "grade": "r200",
+      "datasheet": "https://wikiplast.ir/datasheets/ditashitR200.pdf",
+      "petrochemical": "entekhab",
+      "imageSrc": ["../assets/images/products/polystyrene.jpg"],
+      "application": [
+        "SNOWA R200, is an EPS class, in accordance with REACH regulative, which can be used in production of EPS foam typically in density ranges between 12 - 20 kg/m3 suitable for high quality block molding and shape molding.",
+        "SNOWA R200 is used for food contact and other packaging variety, insulation applications is not requiring fire classification, for industrial application, and shape molding applications with impact absorber.",
+        "Lower densities can be achieved by multiple expansions."
+      ],
+      "packing": [
+        "1250kg big bag with inside gas barrier liner",
+        "1000kg big bag with inside gas barrier liner",
+        "750kg big bag with inside gas barrier liner",
+        "1150kg octabins are in preparation"
+      ]
+    },
+    {
+      "id": "ir-pt-3",
+      "country": "iran",
+      "product": "polystyrene",
+      "tradeName": "eps",
+      "grade": "r320",
+      "datasheet": "https://wikiplast.ir/datasheets/ditashitR320.pdf",
+      "petrochemical": "entekhab",
+      "imageSrc": ["../assets/images/products/polystyrene.jpg"],
+      "application": [
+        "SNOWA R320, is an EPS class in accordance with REACH regulative, ensuring rapid molding with its short cycle time, which can be used in production of EPS foam typically in density ranges between 14 – 25 kg/m3 suitable for high quality shape molding",
+        "SNOWA R320 is free of zinc contents and used for shape molding application and packaging products which is suitable for food contact applications",
+        "Lower densities can be achieved by multiple expansions."
+      ],
+      "packing": [
+        "1250kg big bag with inside gas barrier liner",
+        "1000kg big bag with inside gas barrier liner",
+        "750kg big bag with inside gas barrier liner",
+        "1150kg octabins are in preparation"
+      ]
+    }
+  ]
+}

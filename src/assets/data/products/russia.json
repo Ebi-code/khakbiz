@@ -1,0 +1,25 @@
+{
+  "global": "russia",
+  "data": [
+    {
+      "id": "ru-pt-test",
+      "country": "russia",
+      "product": "test products",
+      "tradeName": "tst",
+      "grade": "t9000",
+      "datasheet": "https://wikiplast.ir/datasheets/ditashitF100.pdf",
+      "petrochemical": "ruspetrochemical",
+      "imageSrc": ["../assets/images/products/polystyrene.jpg"],
+      "application": [
+        "text t100 is an EPS class with HBCD flame retardant agent, which can be used in production",
+        "test t100 in general is used in application which is requiring fire classification such as thermal insulation material for construction applications and for construction contour moldings."
+        
+      ],
+      "packing": [
+        "1500kg big bag with inside gas barrier liner",
+        "500kg big bag with inside gas barrier liner",
+        "250kg octabins are in preparation"
+      ]
+    }
+  ]
+}
