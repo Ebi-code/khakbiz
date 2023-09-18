@@ -63,6 +63,42 @@
         "750kg big bag with inside gas barrier liner",
         "1150kg octabins are in preparation"
       ]
+    },
+    {
+      "id": "ir-pt-4",
+      "country": "iran",
+      "product": "polyethylene",
+      "tradeName": "ep",
+      "grade": "HDPE",
+      "datasheet": "https://shamsjavid.com/differences-of-different-grades-of-polyethylene/",
+      "petrochemical": "bushehr",
+      "imageSrc": ["../assets/images/products/polyethylene.jpg","../assets/images/products/hdpe.jpg"],
+      "application": ["Massive pipelines are used to transport materials"],
+      "packing": []
+    },
+    {
+      "id": "ir-pt-5",
+      "country": "iran",
+      "product": "polyethylene",
+      "tradeName": "ep",
+      "grade": "LDPE",
+      "datasheet": "https://shamsjavid.com/differences-of-different-grades-of-polyethylene/",
+      "petrochemical": "bushehr",
+      "imageSrc": ["../assets/images/products/polyethylene.jpg","../assets/images/products/ldpe.jpg"],
+      "application": ["It is used in plastic packaging such as food bags or plastic packaging"],
+      "packing": []
+    },
+    {
+      "id": "ir-pt-6",
+      "country": "iran",
+      "product": "Ethylene glycol",
+      "tradeName": "Eg",
+      "grade": "meg, deg, teg",
+      "datasheet": "https://petrola.co/product/glycols/",
+      "petrochemical": "bushehr",
+      "imageSrc": ["../assets/images/products/ethylene-glycol.jpg"],
+      "application": ["Application as coolant and heat transfer agent","antifreeze","Polymer production","Macrohydrates","Rai production of thinners","Color production","Production of glue and wax"," Production of cosmetics Fabric production","As a solvent","As a cleaner"," Printing ink"],
+      "packing": []
     }
   ]
 }

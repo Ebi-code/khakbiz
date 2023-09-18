@@ -116,7 +116,7 @@ const Product = () => {
               {product.imageSrc.map((image, index) => (
                 <img
                   key={index}
-                  src={`../${product.imageSrc[0]}`}
+                  src={`../${image}`}
                   alt={product.product}
                   className="rounded-lg bg-gray-100"
                 />
