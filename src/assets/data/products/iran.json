@@ -99,6 +99,22 @@
       "imageSrc": ["../assets/images/products/ethylene-glycol.jpg"],
       "application": ["Application as coolant and heat transfer agent","antifreeze","Polymer production","Macrohydrates","Rai production of thinners","Color production","Production of glue and wax"," Production of cosmetics Fabric production","As a solvent","As a cleaner"," Printing ink"],
       "packing": []
+    },
+    {
+      "id": "ir-pt-7",
+      "country": "iran",
+      "product": "Polyvinyl acetate",
+      "tradeName": "PVAc",
+      "grade": "",
+      "datasheet": "https://www.mbkchemical.com/polyvinyl-acetate-pvac/",
+      "petrochemical": "bushehr",
+      "imageSrc": ["../assets/images/products/polyvinyl-acetate.jpg"],
+      "application": [
+        "It is usually called wood glue, white glue, wood glue, paper glue, Elmer glue or PVA glue.",
+        "It is used as a binder in paper coatings, paints and other industrial coatings, in non-woven fabrics and glass fibers, and in sanitary products such as paper towels.",
+        "PVAc is used as a reinforcement for porous building stone, especially sandstone."
+    ],
+      "packing": []
     }
   ]
 }
