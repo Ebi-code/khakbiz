@@ -115,6 +115,54 @@
         "PVAc is used as a reinforcement for porous building stone, especially sandstone."
     ],
       "packing": []
+    },
+    {
+      "id": "ir-pt-8",
+      "country": "iran",
+      "product": "Acrylonitrile butadiene styrene",
+      "tradeName": "abs",
+      "grade": "F232",
+      "datasheet": "",
+      "petrochemical": "pad jam",
+      "imageSrc": ["../assets/images/products/abs.jpg","../assets/images/products/abs-f232.jpg"],
+      "application": ["Small and large","Household appliances","Vacuum cleaners","Toys", "Telephones and consumer electronics"],
+      "packing": []
+    },
+    {
+      "id": "ir-pt-9",
+      "country": "iran",
+      "product": "Acrylonitrile butadiene styrene",
+      "tradeName": "abs",
+      "grade": "C442",
+      "datasheet": "",
+      "petrochemical": "pad jam",
+      "imageSrc": ["../assets/images/products/abs-plastic.jpg","../assets/images/products/abs-c442.jpg"],
+      "application": ["Automotive interior (extruded profiles, interior trim)"],
+      "packing": []
+    },
+    {
+      "id": "ir-pt-10",
+      "country": "iran",
+      "product": "Acrylonitrile butadiene styrene",
+      "tradeName": "abs",
+      "grade": "T6306",
+      "datasheet": "",
+      "petrochemical": "pad jam",
+      "imageSrc": ["../assets/images/products/abs-2.jpg","../assets/images/products/abs-T6306.jpg"],
+      "application": ["Bitumen modification in waterproofing systems, formulated compounds for shoe soles and technical goods"],
+      "packing": []
+    },
+    {
+      "id": "ir-pt-11",
+      "country": "iran",
+      "product": "Acrylonitrile butadiene styrene",
+      "tradeName": "abs",
+      "grade": "br277",
+      "datasheet": "",
+      "petrochemical": "pad jam",
+      "imageSrc": ["../assets/images/products/abs-3.jpg","../assets/images/products/abs-br277.jpg"],
+      "application": ["BR 277 oil extended polybutadiene is used in tire compounds and in some mechanical good compounds."],
+      "packing": []
     }
   ]
 }
