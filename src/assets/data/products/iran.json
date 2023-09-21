@@ -97,7 +97,7 @@
       "datasheet": "https://petrola.co/product/glycols/",
       "petrochemical": "bushehr",
       "imageSrc": ["../assets/images/products/ethylene-glycol.jpg"],
-      "application": ["Application as coolant and heat transfer agent","antifreeze","Polymer production","Macrohydrates","Rai production of thinners","Color production","Production of glue and wax"," Production of cosmetics Fabric production","As a solvent","As a cleaner"," Printing ink"],
+      "application": ["Application as coolant and heat transfer agent","antifreeze","Polymer production","Macrohydrates","Rai production of thinners","Color production","Production of glue and wax","Production of cosmetics Fabric production","As a solvent","As a cleaner","Printing ink"],
       "packing": []
     },
     {
@@ -162,6 +162,448 @@
       "petrochemical": "pad jam",
       "imageSrc": ["../assets/images/products/abs-3.jpg","../assets/images/products/abs-br277.jpg"],
       "application": ["BR 277 oil extended polybutadiene is used in tire compounds and in some mechanical good compounds."],
+      "packing": []
+    },
+    {
+      "id": "ir-pt-12",
+      "country": "iran",
+      "product": "urea",
+      "tradeName": "",
+      "grade": "",
+      "datasheet": "https://www.paupc.ir/page-news/fa/0/form/pId376",
+      "petrochemical": "pardis",
+      "imageSrc": ["../assets/images/products/urea.jpg"],
+      "application": ["Urea fertilizer is widely used in Iran and the world as a nitrogen supply for annual plants, including corn, wheat, barley, sunflower, canola, soybean, safflower, sugar beet, sugarcane and other annual crops."],
+      "packing": ["The packaging of this product is in the form of bags of 10 to 40 kilos"]
+    },
+    {
+      "id": "ir-pt-13",
+      "country": "iran",
+      "product": "Linear low-density polyethylene",
+      "tradeName": "lldpe",
+      "grade": "60505, 60505uv",
+      "datasheet": "https://www.jpcomplex.ir/products/ID/21/hd60505",
+      "petrochemical": "jam",
+      "imageSrc": [
+        "../assets/images/products/lldpe.jpg",
+        "../assets/images/products/lldpe-60505-1.jpg",
+        "../assets/images/products/lldpe-60505-2.jpg",
+        "../assets/images/products/lldpe-60505-3.jpg",
+        "../assets/images/products/lldpe-60505-4.jpg"
+      ],
+      "application": ["Injection molding grade Crates"],
+      "packing": []
+    },
+    {
+      "id": "ir-pt-14",
+      "country": "iran",
+      "product": "Linear low-density polyethylene",
+      "tradeName": "lldpe",
+      "grade": "HP-LL18XF5 N",
+      "datasheet": "https://www.jpcomplex.ir/products/ID/23/hpll18x",
+      "petrochemical": "jam",
+      "imageSrc": [
+        "../assets/images/products/lldpe.jpg",
+        "../assets/images/products/lldpe-ll18xf5n-1.jpg",
+        "../assets/images/products/lldpe-ll18xf5n-2.jpg",
+        "../assets/images/products/lldpe-ll18xf5n-3.jpg",
+        "../assets/images/products/lldpe-ll18xf5n-4.jpg"
+      ],
+      "application": [
+        "T-bags and other bags",
+        "Food Packaging for frozen products, Agricultural",
+        "Film, Heat seal film, Food Packaging"
+      ],
+      "packing": []
+    },
+    {
+      "id": "ir-pt-15",
+      "country": "iran",
+      "product": "Linear low-density polyethylene",
+      "tradeName": "lldpe",
+      "grade": "MD-35504",
+      "datasheet": "https://www.jpcomplex.ir/products/ID/31/md35504",
+      "petrochemical": "jam",
+      "imageSrc": [
+        "../assets/images/products/lldpe.jpg",
+        "../assets/images/products/lldpe-35504.jpg"
+      ],
+      "application": [
+        "Tanks",
+        "Containers",
+        "Injection molded parts"
+      ],
+      "packing": []
+    },
+    {
+      "id": "ir-pt-16",
+      "country": "iran",
+      "product": "high strength-to-density",
+      "tradeName": "hdpe",
+      "grade": "HF-4760(BL3)",
+      "datasheet": "https://www.jpcomplex.ir/products/ID/14/hf4760",
+      "petrochemical": "jam",
+      "imageSrc": [
+        "../assets/images/products/hdpe.jpg",
+        "../assets/images/products/hdpe-hf4760.jpg"
+      ],
+      "application": [
+        "For container with capacities ranging from a few ml up to 10 liters",
+        "also for production of sheets for thermoforming."
+      ],
+      "packing": []
+    },
+    {
+      "id": "ir-pt-17",
+      "country": "iran",
+      "product": "high strength-to-density",
+      "tradeName": "hdpe",
+      "grade": "HM9450F (EX5)",
+      "datasheet": "https://www.jpcomplex.ir/products/ID/19/hm9450f-ex5",
+      "petrochemical": "jam",
+      "imageSrc": [
+        "../assets/images/products/hdpe.jpg",
+        "../assets/images/products/hdpe-HM9450F.jpg"
+      ],
+      "application": [
+        "For blown films with paperlike quality, suitable for counter bags,",
+        "carrier bags and wrapping films",
+        "Excellent processing."
+      ],
+      "packing": []
+    },
+    {
+      "id": "ir-pt-18",
+      "country": "iran",
+      "product": "Polypropylene",
+      "tradeName": "PP",
+      "grade": "HP525J",
+      "datasheet": "https://www.jpcomplex.ir/products/ID/32/hp525j",
+      "petrochemical": "jam",
+      "imageSrc": [
+        "../assets/images/products/polypropylene.jpg",
+        "../assets/images/products/polypropylene-HP525J.jpg"
+      ],
+      "application": [
+        "High quality packaging film for food",
+        "Lamination to other films",
+        "Metalizable film",
+        "Medical packaging",
+        "Thermoformed food containers"
+      ],
+      "packing": []
+    },
+    {
+      "id": "ir-pt-19",
+      "country": "iran",
+      "product": "Polypropylene",
+      "tradeName": "PP",
+      "grade": "EP440G",
+      "datasheet": "https://www.jpcomplex.ir/products/ID/37/ep440g",
+      "petrochemical": "jam",
+      "imageSrc": [
+        "../assets/images/products/polypropylene.jpg",
+        "../assets/images/products/polypropylene-EP440G.jpg"
+      ],
+      "application": [
+        "Corrugated board, panels, profiles and crates",
+        "Corrugated pipes for automotive and machine construction",
+        "Conduit pipes and fittings for electrical distribution and cable",
+        "protection",
+        "Blow molded bottles and containers"
+      ],
+      "packing": []
+    },
+    {
+      "id": "ir-pt-20",
+      "country": "iran",
+      "product": "Polypropylene",
+      "tradeName": "PP",
+      "grade": "hp510l",
+      "datasheet": "https://www.jpcomplex.ir/products/ID/34/hp510l",
+      "petrochemical": "jam",
+      "imageSrc": [
+        "../assets/images/products/polypropylene.jpg",
+        "../assets/images/products/polypropylene-HP510L.jpg"
+      ],
+      "application": [
+        "Fiber extrusion (Sheet, film yarn, monofilament), Cast film",
+        "Baler twines, packaging twines and ropes;",
+        "Brush and broom filling and technical applications",
+        "Coextruded film for packaging; Thin sheet for stationery folders",
+        "Sheet for thermoforming; Gunny sacks",
+        "Carpet backings, bags, industrial fabrics, mats; Artificial grass",
+        "Baler twines, packaging twines and ropes",
+        "Brush and broom filling and technical applications"
+      ],
+      "packing": []
+    },
+    {
+      "id": "ir-pt-21",
+      "country": "iran",
+      "product": "Methanol",
+      "tradeName": "MeOH",
+      "grade": "",
+      "datasheet": "https://www.sabalanpico.com/%d9%85%d8%b4%d8%ae%d8%b5%d8%a7%d8%aa-%d9%85%d8%ad%d8%b5%d9%88%d9%84/#",
+      "petrochemical": "sabalan",
+      "imageSrc": ["../assets/images/products/methanol.jpg"],
+      "application": [
+        "It is used as antifreeze, solvent and fuel. Methanol is also used to imitate ethanol"
+      ],
+      "packing": []
+    },
+    {
+      "id": "ir-pt-22",
+      "country": "iran",
+      "product": "Elastomer",
+      "tradeName": "ESBR",
+      "grade": "1712, 1778",
+      "datasheet": "https://pgspc.ir/about/",
+      "petrochemical": "sadaf",
+      "imageSrc": ["../assets/images/products/elastomer.jpg","../assets/images/products/esbr-1712.jpg"],
+      "application": ["Elastomer is widely used to produce cold-thermal insulation and sound insulation"],
+      "packing": []
+    },
+    {
+      "id": "ir-pt-23",
+      "country": "iran",
+      "product": "Elastomer",
+      "tradeName": "ESBR",
+      "grade": "1500, 1502, 1509",
+      "datasheet": "https://pgspc.ir/about/",
+      "petrochemical": "sadaf",
+      "imageSrc": ["../assets/images/products/elastomer.jpg","../assets/images/products/esbr-1500.jpg"],
+      "application": ["Elastomer is widely used to produce cold-thermal insulation and sound insulation"],
+      "packing": []
+    },
+    {
+      "id": "ir-pt-24",
+      "country": "iran",
+      "product": "mono ethylene glycol",
+      "tradeName": "meg",
+      "grade": "",
+      "datasheet": "http://fcpco.ir/%D9%85%D8%AD%D8%B5%D9%88%D9%84%D8%A7%D8%AA/-%D9%85%D9%88%D9%86%D9%88-%D8%A7%D8%AA%DB%8C%D9%84%D9%86-%DA%AF%D9%84%DB%8C%DA%A9%D9%88%D9%84-MEG",
+      "petrochemical": "fars shimi",
+      "imageSrc": ["../assets/images/products/mono-ethylene-glycol.jpg"],
+      "application": [
+        "Adhesive heat transfer fluids",
+        "Water bases",
+        "Latex paints and asphalt emulsions",
+        "Electrolytic capacitors",
+        "leather",
+        "..."
+      ],
+      "packing": []
+    },
+    {
+      "id": "ir-pt-25",
+      "country": "iran",
+      "product": "di ethylene glycol",
+      "tradeName": "deg",
+      "grade": "",
+      "datasheet": "http://fcpco.ir/%D9%85%D8%AD%D8%B5%D9%88%D9%84%D8%A7%D8%AA/%D8%AF%DB%8C-%D8%A7%D8%AA%DB%8C%D9%84%D9%86-%DA%AF%D9%84%DB%8C%DA%A9%D9%88%D9%84-DEG",
+      "petrochemical": "fars shimi",
+      "imageSrc": ["../assets/images/products/diethylene-glycol.jpg"],
+      "application": [
+        "Polyester resins, polyurethanes and saturated and unsaturated plasticizers",
+        "Structural blocks of some organic syntheses such as morphine and dioxane 1 and 4",
+        "Use as a solvent for some materials such as nitrocelluloses, resins, paints, oils and other organic compounds",
+        "Tobacco smoker, cork, printing ink. glue",
+        "Used in lubricants, cooking fuel, wallpaper strips and brake fluid",
+        "This substance is also used in personal care products such as skin creams and lotions, deodorants. Diluted solutions of this solution are used as preservatives.",
+        "Ethylene glycol antifreeze also contains a small percentage of diethylene glycol."
+      ],
+      "packing": []
+    },
+    {
+      "id": "ir-pt-26",
+      "country": "iran",
+      "product": "Tri ethylene glycol",
+      "tradeName": "teg",
+      "grade": "",
+      "datasheet": "http://fcpco.ir/%D9%85%D8%AD%D8%B5%D9%88%D9%84%D8%A7%D8%AA/%D8%AA%D8%B1%DB%8C-%D8%A7%D8%AA%DB%8C%D9%84%D9%86-%DA%AF%D9%84%DB%8C%DA%A9%D9%88%D9%84-TEG",
+      "petrochemical": "fars shimi",
+      "imageSrc": ["../assets/images/products/tri-ethylene.jpg"],
+      "application": [
+        "Polyester resins, polyurethanes and saturated and unsaturated plasticizers",
+        "Structural blocks of some organic syntheses such as morphine and dioxane 1 and 4",
+        "Use as a solvent for some materials such as nitrocelluloses, resins, paints, oils and other organic compounds",
+        "Tobacco smoker, cork, printing ink. glue",
+        "Used in lubricants, cooking fuel, wallpaper strips and brake fluid",
+        "This substance is also used in personal care products such as skin creams and lotions, deodorants. Diluted solutions of this solution are used as preservatives.",
+        "Ethylene glycol antifreeze also contains a small percentage of diethylene glycol."
+      ],
+      "packing": []
+    },
+    {
+      "id": "ir-pt-27",
+      "country": "iran",
+      "product": "Ethylene",
+      "tradeName": "Ethene",
+      "grade": "",
+      "datasheet": "http://www.petrokavian.com/%D9%85%D8%AD%D8%B5%D9%88%D9%84%D8%A7%D8%AA/%D9%85%D8%AD%D8%B5%D9%88%D9%84-%D8%A7%D8%B5%D9%84%DB%8C",
+      "petrochemical": "kavian",
+      "imageSrc": ["../assets/images/products/ethylene.jpg"],
+      "application": [
+        "Ethylene is the raw material for making plastics, fibers and other organic chemicals",
+        "Other main uses of ethylene include ethylbenzene, alpha olefins and vinyl acetate"
+      ],
+      "packing": []
+    },
+    {
+      "id": "ir-pt-28",
+      "country": "iran",
+      "product": "Methanol",
+      "tradeName": "",
+      "grade": "",
+      "datasheet": "https://www.mekpco.ir/%d9%85%d8%aa%d8%a7%d9%86%d9%88%d9%84/",
+      "petrochemical": "kimia pars",
+      "imageSrc": ["../assets/images/products/methanol.jpg"],
+      "application": ["The main use is for ignition and solubility, and in some cases it is also used as an antifreeze in related products."],
+      "packing": []
+    },
+    {
+      "id": "ir-pt-29",
+      "country": "iran",
+      "product": "olefin",
+      "tradeName": "",
+      "grade": "",
+      "datasheet": "https://www.morvaridpc.ir/fa/processingunits/olefinunit",
+      "petrochemical": "morvarid",
+      "imageSrc": ["../assets/images/products/olefin.jpg"],
+      "application": [],
+      "packing": []
+    },
+    {
+      "id": "ir-pt-30",
+      "country": "iran",
+      "product": "mono ethylene glycol",
+      "tradeName": "meg",
+      "grade": "",
+      "datasheet": "https://www.morvaridpc.ir/fa/processingunits/megnunit",
+      "petrochemical": "morvarid",
+      "imageSrc": ["../assets/images/products/mono-ethylene-glycol.jpg"],
+      "application": [
+        "Adhesive heat transfer fluids",
+        "Water bases",
+        "Latex paints and asphalt emulsions",
+        "Electrolytic capacitors",
+        "leather",
+        "..."
+      ],
+      "packing": []
+    },
+    {
+      "id": "ir-pt-31",
+      "country": "iran",
+      "product": "Paraxylene",
+      "tradeName": "px",
+      "grade": "",
+      "datasheet": "https://www.nopc.co/fa/commerceandsale/products/mainproducts/paraxylene",
+      "petrochemical": "noori",
+      "imageSrc": ["../assets/images/products/paraxylene.jpg"],
+      "application": [
+        "in the preparation of dimethyl terephthalate DMT and terephthalic acid PTA (for the production of polyesters and synthetic fibers)",
+        "vitamins",
+        "Medicinal compounds",
+        "Pesticides"
+      ],
+      "packing": []
+    },
+    {
+      "id": "ir-pt-32",
+      "country": "iran",
+      "product": "BENZENE",
+      "tradeName": "bz",
+      "grade": "",
+      "datasheet": "https://www.nopc.co/fa/commerceandsale/products/mainproducts/benzene",
+      "petrochemical": "noori",
+      "imageSrc": ["../assets/images/products/benzene.jpg"],
+      "application": [
+        "Ethylbenzene (for the production of polystyrene)",
+        "linear alkylbenzene and didecylbenzene (for the preparation of detergents)", 
+        "cyclohexane (for the production of nylon)", 
+        "phenol", 
+        "nitrobenzene (for the production of aniline)", 
+        "maleic anhydride", 
+        "solvents"
+      ],
+      "packing": []
+    },
+    {
+      "id": "ir-pt-33",
+      "country": "iran",
+      "product": "orthoxylene",
+      "tradeName": "ox",
+      "grade": "",
+      "datasheet": "https://www.nopc.co/fa/commerceandsale/products/mainproducts/orthoxylene",
+      "petrochemical": "noori",
+      "imageSrc": ["../assets/images/products/orthoxylene.jpg"],
+      "application": [
+        "Phthalic anhydride PA", 
+        "dioctyl phthalate DOP",
+        "colors"
+      ],
+      "packing": []
+    },
+    {
+      "id": "ir-pt-34",
+      "country": "iran",
+      "product": "ammonia",
+      "tradeName": "",
+      "grade": "",
+      "datasheet": "https://www.hemmatpc.com/Products",
+      "petrochemical": "hemmat",
+      "imageSrc": ["../assets/images/products/ammonia.jpg"],
+      "application": [
+        "Ice factories", 
+        "in making fertilizers such as urea", 
+        "nitrate, sulfate and ammonium phosphate", 
+        "preparing nitric acid and all kinds of medicines",
+        "colors"
+      ],
+      "packing": []
+    },
+    {
+      "id": "ir-pt-35",
+      "country": "iran",
+      "product": "Carbon dioxide",
+      "tradeName": "",
+      "grade": "",
+      "datasheet": "https://www.hemmatpc.com/Products",
+      "petrochemical": "hemmat",
+      "imageSrc": ["../assets/images/products/carbon-dioxide.jpg"],
+      "application": ["Carbon dioxide is used by food industry, oil industry and chemical industry"],
+      "packing": []
+    },
+    {
+      "id": "ir-pt-35",
+      "country": "iran",
+      "product": "ammonia",
+      "tradeName": "",
+      "grade": "",
+      "datasheet": "",
+      "petrochemical": "hengam",
+      "imageSrc": ["../assets/images/products/ammonia.jpg"],
+      "application": [
+        "Ice factories", 
+        "in making fertilizers such as urea", 
+        "nitrate, sulfate and ammonium phosphate", 
+        "preparing nitric acid and all kinds of medicines",
+        "colors"
+      ],
+      "packing": []
+    },
+    {
+      "id": "ir-pt-36",
+      "country": "iran",
+      "product": "urea",
+      "tradeName": "",
+      "grade": "",
+      "datasheet": "",
+      "petrochemical": "hengam",
+      "imageSrc": ["../assets/images/products/urea.jpg"],
+      "application": ["Urea fertilizer is widely used in Iran and the world as a nitrogen supply for annual plants, including corn, wheat, barley, sunflower, canola, soybean, safflower, sugar beet, sugarcane and other annual crops."],
       "packing": []
     }
   ]

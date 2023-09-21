@@ -198,9 +198,9 @@ const Products = () => {
                               className="h-full w-full object-cover object-center lg:h-full lg:w-full"
                             />
                           </div>
-                          <div className="mt-4 flex justify-between">
+                          <div className="mt-6 flex justify-between">
                             <div>
-                              <h3 className="uppercase text-sm text-gray-700">
+                              <h3 className="uppercase text-sm font-bold text-blue-950">
                                 <NavLink to={`/products/product/${product.id}`}>
                                   <span
                                     aria-hidden="true"
@@ -209,14 +209,21 @@ const Products = () => {
                                   {product.product}
                                 </NavLink>
                               </h3>
-                              <p className="mt-1 uppercase text-sm text-gray-500">
-                                {product.tradeName}
+                              <p className="mt-5 capitalize text-sm font-bold text-zinc-800">
+                                Trade Name: 
+                                <span className="pl-2 uppercase font-semibold text-slate-600">{product.tradeName}</span>
+                              </p>
+                              <p className="mt-2 capitalize text-sm font-bold text-zinc-800">
+                                petrochemical: 
+                                <span className="pl-2 uppercase font-semibold text-slate-600">{product.petrochemical}</span>
                               </p>
                             </div>
-                            <div className="text-right">
-                              <p className="uppercase text-sm font-medium text-gray-900">
-                                {product.grade}
-                              </p>
+                            <div className="flex items-start justify-end text-left">
+                              {product.grade &&
+                                <p className="py-1 px-2 rounded-md bg-slate-100 uppercase text-xs font-medium text-gray-600">
+                                  {product.grade}
+                                </p>
+                              }
                               {/* <a
                                 href={product.datasheet}
                                 target="_blank"
@@ -241,9 +248,9 @@ const Products = () => {
                               className="h-full w-full object-cover object-center lg:h-full lg:w-full"
                             />
                           </div>
-                          <div className="mt-4 flex justify-between">
+                          <div className="mt-6 flex justify-between">
                             <div>
-                              <h3 className="text-sm text-gray-700">
+                              <h3 className="uppercase text-sm font-bold text-blue-950">
                                 <NavLink to={`/products/product/${product.id}`}>
                                   <span
                                     aria-hidden="true"
@@ -252,20 +259,33 @@ const Products = () => {
                                   {product.product}
                                 </NavLink>
                               </h3>
-                              <p className="mt-1 text-sm text-gray-500">
-                                {product.tradeName}
+                              <p className="mt-5 capitalize text-sm font-bold text-zinc-800">
+                                Trade Name: 
+                                <span className="pl-2 uppercase font-semibold text-slate-600">{product.tradeName}</span>
+                              </p>
+                              <p className="mt-2 capitalize text-sm font-bold text-zinc-800">
+                                petrochemical: 
+                                <span className="pl-2 uppercase font-semibold text-slate-600">{product.petrochemical}</span>
                               </p>
                             </div>
-                            <p className="text-sm font-medium text-gray-900">
-                              {product.grade}
-                            </p>
-                            {/* <a href={product.datasheet}>
-                              <span
-                                aria-hidden="true"
-                                className="absolute inset-0"
-                              />
-                              datasheet
-                            </a> */}
+                            <div className="flex items-start justify-end text-left">
+                              {product.grade &&
+                                <p className="py-1 px-2 rounded-md bg-slate-100 uppercase text-xs font-medium text-gray-600">
+                                  {product.grade}
+                                </p>
+                              }
+                              {/* <a
+                                href={product.datasheet}
+                                target="_blank"
+                                rel="noreferrer"
+                              >
+                                <span
+                                  aria-hidden="true"
+                                  className="absolute inset-0"
+                                />
+                                datasheet
+                              </a> */}
+                            </div>
                           </div>
                         </div>
                       ))}
